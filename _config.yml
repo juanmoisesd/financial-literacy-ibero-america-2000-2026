@@ -1,0 +1,11 @@
+title: "financial-literacy-ibero-america-2000-2026"
+description: "Database on financial literacy in Ibero-America (2000-2026)."
+url: "https://juanmoisesd.github.io"
+baseurl: "/financial-literacy-ibero-america-2000-2026"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+plugins:
+  - jekyll-seo-tag
+theme: minima
