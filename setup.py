@@ -1,0 +1,13 @@
+from setuptools import setup, find_packages
+setup(
+    name="financial-literacy-ibero-america-2000-2026",
+    version="1.0.0",
+    description="Financial literacy database for Ibero-America (20 countries, 2000-2026): banking, household debt and",
+    author="de la Serna, Juan Moisés",
+    url="https://github.com/juanmoisesd/financial-literacy-ibero-america-2000-2026",
+    packages=find_packages(),
+    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
+    python_requires=">=3.7",
+    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
+    keywords="zenodo, open-data",
+)
