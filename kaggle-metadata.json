@@ -1,0 +1,16 @@
+{
+  "title": "Financial literacy database for Ibero-America (20 countries, 2000-2026): banking",
+  "id": "juanmoisesd/financial-literacy-ibero-america-2000-2026",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "open-data",
+    "research",
+    "latin-america"
+  ],
+  "description": "Financial literacy database for Ibero-America (20 countries, 2000-2026): banking, household debt and gender gap indicators. OSF: https://osf.io/gnaqh/\n\nDOI: https://github.com/juanmoisesd/financial-literacy-ibero-america-2000-2026\nGitHub: https://github.com/juanmoisesd/financial-literacy-ibero-america-2000-2026\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
